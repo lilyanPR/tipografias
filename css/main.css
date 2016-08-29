@@ -1,0 +1,49 @@
+
+.caja{
+	width: 200px;
+	height: 250px;
+	float: left;
+	box-shadow: 0 1px 1px 0;
+	font-size: 12px;
+	margin: 5px;
+	padding: 10px;
+	text-align: center;
+	font-family: Bree+Serif, cursive;
+	background-color: #D9F8FA;
+}
+
+span.{
+	margin:100px;
+	font-size: 300px;
+	color: black;
+}
+
+h2.{
+	font-family: "lobster",sans-serife;
+	font-size: 80px;
+}
+
+h3.{
+	font-family: "Crimson"; cursive;
+}
+
+p.{
+	font-family: "Bree+Serif"; cursive;
+}
+.caja.hover{
+	
+	width: 210px;
+	height: 260px;
+	font-size: 13px;
+	color: gray;
+	transition: width 1s;
+	-webkit-transition: width 1s;
+}
+
+.caja.hover span{
+	font-size: 150px;
+	color: #B372D4;
+	-webkit-transition: width 1s;
+	transition: width 1s;
+}
+
